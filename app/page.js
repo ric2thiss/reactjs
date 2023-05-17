@@ -23,7 +23,7 @@ export default function Home() {
       <div className={darkMode ? "dark":""}>
         <Head>
           <title>Ric Charles Portfolio</title>
-          <meta name="description" content="Portfolio"/>
+          <meta name="Freelance full-stack web developer expertise(HTML, CSS, ReactJS, PHP, Laravel)" content="Portfolio"/>
           <link rel="icon" href="/favicon.ico"/>
         </Head>
 
