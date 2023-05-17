@@ -22,7 +22,7 @@ export default function Home() {
     <div>
       <div className={darkMode ? "dark":""}>
         <Head>
-          <title>Ric Charles Portfolio</title>
+          <title>Ric Charles</title>
           <meta name="google-site-verification" content="7g7wtSSPdQ_r8TkE81s-7KCIZnzgNTgbP500ZZQFKXM" />
           <link rel="icon" href="/favicon.ico"/>
         </Head>
